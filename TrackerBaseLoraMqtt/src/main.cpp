@@ -5,8 +5,8 @@
 #include <BLEUtils.h>
 #include <BLEScan.h>
 
-const char* ssid = "NETGEAREA758B-g026";
-const char* password = "boulerouge62219!";
+const char* ssid = "";
+const char* password = "";
 
 const char* mqtt_server = "188.165.52.200";
 
